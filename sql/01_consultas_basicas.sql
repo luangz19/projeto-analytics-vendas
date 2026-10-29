@@ -1,0 +1,12 @@
+SELECT
+WHERE
+ORDER BY
+LIMIT
+margem bruta
+margem percentual
+COUNT
+AVG
+MIN
+MAX
+GROUP BY
+HAVING
